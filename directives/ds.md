@@ -2,7 +2,7 @@
 
 ## Syntax
 ```assembly
-ds.[blw] <number>
+ds.[bdlqswx] <number>
 ```
 
 ## Description
